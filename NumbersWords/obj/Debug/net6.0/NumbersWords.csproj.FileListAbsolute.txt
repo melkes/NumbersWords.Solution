@@ -1,0 +1,12 @@
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.csproj.AssemblyReference.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.AssemblyInfoInputs.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.AssemblyInfo.cs
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.csproj.CoreCompileInputs.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/bin/Debug/net6.0/NumbersWords.deps.json
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/bin/Debug/net6.0/NumbersWords.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/bin/Debug/net6.0/NumbersWords.pdb
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/refint/NumbersWords.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/NumbersWords.pdb
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/NumbersWords.Solution/NumbersWords/obj/Debug/net6.0/ref/NumbersWords.dll
